@@ -1,1 +1,1 @@
-este es un archivo de entrada para un script
+este es un archivo de entrada para ser procesado por un editor
