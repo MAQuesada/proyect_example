@@ -1,0 +1,5 @@
+# ignore cualquier archivo cuyo nombre termine en .o o .a
+*.[oa]
+
+ignore todos los archivos que terminan en tilde (~)
+*~
